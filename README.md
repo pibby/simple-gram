@@ -1,4 +1,4 @@
-# gram-clone
+# simple-gram
 
 A personal, Instagram-style photo and video feed. It runs on Next.js 16 and Postgres.
 
